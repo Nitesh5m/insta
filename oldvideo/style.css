@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(205, 224, 120);
+    color:  rgb(24, 93, 197);
+}
+div{
+    background-color: rgb(66, 227, 248);
+}
+p{
+    background-color: rgba(211, 176, 212, 0.726);
+}
+span{
+    background-color: rgb(181, 199, 103);
+}
+.red{
+    color: brown;
+}
+#firstdiv{
+    background-color: rgba(204, 218, 15, 0.712);
+}
